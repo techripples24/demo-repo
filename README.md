@@ -5,3 +5,6 @@ Temporary Readme File
 - making some changes to this
 - - to see if it makes some sense
   - 
+- -now I am making changes in the file from Visual St
+
+
